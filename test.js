@@ -1,2 +1,5 @@
-console.log('test test');
-//first pull
+function solve(args) {
+    for (let i = 0; i < 10; i+= 1){
+        console.log(i)
+    }
+}
